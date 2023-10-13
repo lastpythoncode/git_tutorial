@@ -18,8 +18,9 @@ git init<br>
 
 
 (чекаем изменения)<br>
-git status<br>
-
+'''
+git status
+'''
 
 (добавляем все файлы в будующий коммит)<br>
 git add . <br>
